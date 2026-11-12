@@ -180,22 +180,12 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s" group-title="PH | CONVERGE",Xingkong
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",A2Z
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119440.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Abante Radyo
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Al Jazeera
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ALL TV
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440566&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",America's got talent
 https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",American idol
 https://d2yn8dyffvmgy.cloudfront.net/AmericanIdol_GB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ANC
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119443.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Animal Planet
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/1466.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ANIMAX
 https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Aniplus
@@ -204,12 +194,8 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Asian Crush
 https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Asian Food Network
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=534440&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",AXN
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BBC Earth
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119448.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BBC Lifestyle
@@ -222,142 +208,46 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",BUKO Channel
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119450.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Celestial Movies Pinoy
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119507.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CINEMA 1
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119454.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Cinemax
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119456.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CINEMO
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119457.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",CNN International
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119460.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Concert Channel
 https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery Asia
-http://mainvo01aad0820.abcnew.site:8880/live/ALLChannels681defa1b2c3/b3681d2efa1c/71072.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery Channel
-http://mainvo01aad0820.abcnew.site:8880/live/ALLChannels681defa1b2c3/b3681d2efa1c/71071.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery HD
 http://103.157.248.140:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Discovery Science
 http://103.157.248.140:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DreamWorks HD
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119467.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DreamWorks PH
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119466.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Dubai One HD
-http://edinpajalic.streamtv.to:8080/live/sasodaniel2/GTG53de3f3erFR/2398.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",DZRH NEWS
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=1548699&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Fashion TV
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119469.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Food Network
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119470.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Global Trekker
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=1919443&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA 7
-https://bit.ly/gma-stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA Life TV
-https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/546783.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA News TV
-https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/4523.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GMA Pinoy TV
-https://s.rocketdns.info:443/live/ppsUfx6uE/mTn8ieF/546784.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",GTV
-https://bit.ly/gtv-stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119476.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Family
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119477.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Hits
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119478.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HBO Signature
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119479.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",History
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119480.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Hits HD
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119481.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",HITS MOVIES
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119482.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Hits Now
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119483.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",IBC13
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",INC TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440577&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Investigation Discovery
 http://103.157.248.140:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",JEEPNEY TV
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119455.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Kapamilya Channel
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119484.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Kapatid Channel
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440509&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",KIX HD
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119486.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Knowledge Channel
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119487.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Living Asia channel
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Master Chef
 https://tglmp03.akamaized.net/out/v1/5623928a97774b698b3404a843a827d6/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mindanao Network
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MN+
-http://desyra.co:80/8964476/3pUJreUXUW/9383
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MNX
-http://desyra.co:80/live/8964476/3pUJreUXUW/191.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MOVIES NOW
-http://desyra.co:80/8964476/3pUJreUXUW/152387
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mr BEAN
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Mr Bean live action
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",MYX
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119495.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nat Geo
 http://103.157.248.140:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nat Geo Wild
 http://103.157.248.140:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NBA TV Philippines
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119541.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NET 25
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440544&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NEW KPOP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NHK WORLD
 https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nick Jr
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119498.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nickelodeon
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119499.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",NOYPI Movies
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440670&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Nudge Sports Channel
 https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Championship TV
 https://jmp2.uk/plu-668c5d3bfd9eb2000882bb50.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One pH
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119500.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Sports HD
-https://s.rocketdns.info:443/live/TreverCapito/TC12212022/546796.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",One Sports+
-https://s.rocketdns.info:443/live/fNI2zyyx3q/MBbPOBp430/651753.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",PBA Rush
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119506.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Premier Sports
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Premier Sports 2
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119508.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",PTV
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Rakuten VIKI
@@ -368,28 +258,10 @@ https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",ROCK ENTERTAINMENT
 https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",RPTV
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119512.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sari Sari
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119514.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SMNI
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:56:5A&stream=440514&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Solar Sports
-http://pro.reott8k.xyz:80/play/live.php?mac=00:1A:79:7b:ab:a5&stream=1548686&extension=tsls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Sony Pix
-http://desyra.co:80/live/8964476/3pUJreUXUW/147.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SPOTV
-https://hls.iill.top/api/Spotv-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",SPOTV 2
-https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Star Movies
 http://103.157.248.140:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Star Movies Select
-http://desyra.co:80/8964476/3pUJreUXUW/218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TAP MOVIES
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119519.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tapsilog
@@ -402,26 +274,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Tennis+
 https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TFC Asia
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119524.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Thrill HD
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TMC
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119517.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Travel Channel
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119530.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TV5
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119532.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TVN Movies Pinoy
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119534.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",TVN Premium
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:bf:e9:f8&stream=2033860&extension=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",UAAP Varsity Channel
-https://s.rocketdns.info:443/live/fNI2zyyx3q/MBbPOBp430/651752.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Viva Cinema
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119539.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Warner Channel
-http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/119540.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",Wicked Tuna
 https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eh6gerU.png" group-title="PH | CIGNAL PLAY",World of Free Sports
